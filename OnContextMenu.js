@@ -1,0 +1,1 @@
+$(window).bind('contextmenu', false);

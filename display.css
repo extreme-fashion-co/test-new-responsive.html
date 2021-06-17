@@ -1,0 +1,23 @@
+body {margin:0;padding:0;}
+
+.frame {
+	display: block;
+	width: 100vw;
+	height: 100vh;
+	max-width: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+/* Height value unit cannot be in "px", must be in "vh", which means to viewport-height. */
+
+.div01 {
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 80px;
+	max-width: 100%;
+	display: block;
+	
+}
